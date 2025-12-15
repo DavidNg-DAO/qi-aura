@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "davidng5679",
     "name": "qi-aura",
     "slug": "qi-aura",
     "version": "1.0.0",
@@ -8,6 +9,11 @@
     "scheme": "qiaura",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "376b9fb8-2191-4012-9d39-18359ddcb031"
+      }
+    },
     "ios": {
       "supportsTablet": true
     },
