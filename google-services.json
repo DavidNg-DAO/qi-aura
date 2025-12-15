@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476727884380",
+    "project_id": "qimenlovesaviour",
+    "storage_bucket": "qimenlovesaviour.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476727884380:android:ea7f9c6aa1e2be54118499",
+        "android_client_info": {
+          "package_name": "com.davidng5679.qiaura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJRq9OBPxdy376VMfiJgPqbsaGif5mX7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
