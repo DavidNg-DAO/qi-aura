@@ -8,7 +8,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "qiaura",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "extra": {
       "eas": {
         "projectId": "376b9fb8-2191-4012-9d39-18359ddcb031"
@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "com.davidng5679.qiaura",
-      "versionCode": 8,
+      "versionCode": 9,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -54,4 +54,4 @@
     }
   }
 }
-
+   
