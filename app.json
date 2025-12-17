@@ -8,7 +8,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "qiaura",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": false,
+    "newArchEnabled": true,
     "extra": {
       "eas": {
         "projectId": "376b9fb8-2191-4012-9d39-18359ddcb031"
@@ -36,6 +36,14 @@
     "plugins": [
       "expo-router",
       [
+        "expo-build-properties",
+        {
+          "android": {
+            "newArchEnabled": true
+          }
+        }
+      ],
+      [
         "expo-splash-screen",
         {
           "image": "./assets/images/splash-icon.png",
@@ -53,5 +61,4 @@
       "reactCompiler": true
     }
   }
-}
-   
+}  
