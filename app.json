@@ -8,7 +8,6 @@
     "icon": "./assets/images/icon.png",
     "scheme": "qiaura",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "extra": {
       "eas": {
         "projectId": "376b9fb8-2191-4012-9d39-18359ddcb031"
@@ -19,7 +18,7 @@
     },
     "android": {
       "package": "com.davidng5679.qiaura",
-      "versionCode": 9,
+      "versionCode": 10,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -35,14 +34,6 @@
     },
     "plugins": [
       "expo-router",
-      [
-        "expo-build-properties",
-        {
-          "android": {
-            "newArchEnabled": true
-          }
-        }
-      ],
       [
         "expo-splash-screen",
         {
