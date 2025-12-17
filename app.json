@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "com.davidng5679.qiaura",
-      "versionCode": 7,
+      "versionCode": 8,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -54,3 +54,4 @@
     }
   }
 }
+
